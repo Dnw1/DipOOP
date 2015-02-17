@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/OOP/Explosion.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OOP/DestructableObject.cs" Line="19" Column="18" />
+      <File FileName="Assets/Scripts/OOP/Bullet.cs" Line="16" Column="22" />
+      <File FileName="Assets/Scripts/OOP/TempObject.cs" Line="19" Column="9" />
+      <File FileName="Assets/Scripts/SelfDestruct.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/OOP/Explosion.cs" Line="15" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
